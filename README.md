@@ -1,5 +1,6 @@
 # Bank-App
 **Contributors**
+
 Zachazi worked on the webpage development
 
 Emoreadrianesa worked on the current account interface
